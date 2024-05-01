@@ -311,6 +311,7 @@ button:focus {
     display: flex;
     align-items: center;
     justify-content: center;
+    fill:#ffffff;
 }
 .social-list-link:hover,
 .social-list-link:focus {
